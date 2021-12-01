@@ -14,22 +14,22 @@
                 "id": "TxStockAppUrl",
                 "name": "AppUrl",
                 "val": "1",
-                "type": "number",
-                "desc": ""
+                "type": "text",
+                "desc": "1"
             },
 	    {
                 "id": "TxStockAppHeader",
                 "name": "AppHeader",
                 "val": "1",
-                "type": "number",
-                "desc": ""
+                "type": "text",
+                "desc": "1"
             },
             {
                 "id": "TxStockWxHeader",
                 "name": "WxHeader",
                 "val": "1",
                 "type": "text",
-                "desc": ""
+                "desc": "1"
             }
 	    ],
             "author":"@gaofeird",
