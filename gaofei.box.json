@@ -7,38 +7,37 @@
 	    {
             "id":"txstock",
             "name":"腾讯自选股",
-            "keys":["TxStockAppUrl","TxStockAppHeader","TxStockWxHeader"	
-            ],
+            "keys":["TxStockAppUrl","TxStockAppHeader","TxStockWxHeader"],
             "settings": [
 	    {
-                "id": "TxStockAppUrl",
-                "name": "AppUrl",
+                "id": "txstockappurl",
+                "name": "当前账号",
                 "val": "1",
-                "type": "text",
+                "type": "number",
                 "desc": "1"
             },
 	    {
-                "id": "TxStockAppHeader",
-                "name": "AppHeader",
+                "id": "txstockAppHeader",
+                "name": "账号个数",
                 "val": "1",
-                "type": "text",
+                "type": "number",
                 "desc": "1"
             },
             {
-                "id": "TxStockWxHeader",
-                "name": "WxHeader",
+                "id": "txstockWxHeader",
+                "name": "循环获取",
                 "val": "1",
-                "type": "text",
+                "type": "number",
                 "desc": "1"
             }
 	    ],
             "author":"@gaofeird",
-            "repo":"https://github.com/gaofeird/test",
+            "repo":"https://raw.githubusercontent.com/gaofeird/test/main/txstock.js",
             "icons":[
                 "https://github.com/bluesmallpig/scripts/blob/main/img/dzl-mini.png?raw=true",
                 "https://github.com/bluesmallpig/scripts/blob/main/img/dzl.png?raw=true"
             ],
-            "script":"https://github.com/"
+            "script":"https://raw.githubusercontent.com/gaofeird/test/main/txstock.js"
         },
             ]
 }
