@@ -2,11 +2,11 @@
     "id": "gaofei.app.sub",
     "name": "gaofei脚本订阅",
     "author": "@gaofeird",
-    "icon": "https://github.com/bluesmallpig/scripts/blob/main/dog.jpeg?raw=true",
+    "icon": "https://avatars.githubusercontent.com/u/71005882?s=400&u=0912b4ba5a2d3f0edfa5c502ef134e39ab371b69&v=4?raw=true",
     "apps": [
 	    {
       "id": "txstock",
-  "name": "九章头条",
+  "name": "腾讯自选股",
   "keys": ["TxStockAppUrl", "TxStockAppHeader", "TxStockWxHeader"],
   "author": "@gaofei",
   "settings": [{
@@ -59,7 +59,7 @@
     "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
   }],
                         "repo": "https://raw.githubusercontent.com/gaofeird/test/main/txstock.js",
-                            "icons": ["https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg", "https://raw.githubusercontent.com/xl2101200/-/main/tom/tom.jpg"],
+                            "icons": ["https://avatars.githubusercontent.com/u/71005882?s=400&u=0912b4ba5a2d3f0edfa5c502ef134e39ab371b69&v=4", "https://avatars.githubusercontent.com/u/71005882?s=400&u=0912b4ba5a2d3f0edfa5c502ef134e39ab371b69&v=4"],
                                 "script": "https://raw.githubusercontent.com/gaofeird/test/main/txstock.js"
   }
             ]
