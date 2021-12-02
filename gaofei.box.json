@@ -1,8 +1,8 @@
 {
-    "id": "gaofei.app.sub",
-    "name": "gaofei脚本订阅",
-    "author": "@gaofeird",
-    "icon": "https://avatars.githubusercontent.com/u/71005882?s=400&u=0912b4ba5a2d3f0edfa5c502ef134e39ab371b69&v=4?raw=true",
+    "id": "Marsyun.app.sub",
+    "name": "Marsyun脚本订阅",
+    "author": "@Mayun-OK",
+    "icon": "https://github.com/Mayun-OK/Marsyun/blob/main/Marsyun.jpeg?raw=true",
     "apps": [
 	    {
       "id": "txstock",
@@ -59,7 +59,7 @@
     "desc": "推送以及通知控制在什么分钟段，可设置0-59,默认0到10"
   }],
                         "repo": "https://raw.githubusercontent.com/gaofeird/test/main/txstock.js",
-                            "icons": ["https://avatars.githubusercontent.com/u/71005882?s=400&u=0912b4ba5a2d3f0edfa5c502ef134e39ab371b69&v=4", "https://avatars.githubusercontent.com/u/71005882?s=400&u=0912b4ba5a2d3f0edfa5c502ef134e39ab371b69&v=4"],
+                            "icons": ["https://github.com/Mayun-OK/Marsyun/blob/main/txstock.png?raw=true", "https://github.com/Mayun-OK/Marsyun/blob/main/txstock.png?raw=true"],
                                 "script": "https://raw.githubusercontent.com/gaofeird/test/main/txstock.js"
   }
             ]
